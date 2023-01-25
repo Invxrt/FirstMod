@@ -1,0 +1,12 @@
+{
+  "item.firstmod.jake": "Jake",
+  "item.firstmod.tanzanite": "Tanzanite",
+  "item.firstmod.raw_tanzanite": "Raw Tanzanite",
+
+  "block.firstmod.tanzanite_block": "Tanzanite Block",
+  "block.firstmod.tanzanite_ore": "Tanzanite Ore",
+  "block.firstmod.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore",
+
+  "itemGroup.firstmodtab": "Invxrt's Mod",
+  "itemGroup.firstmodcreative": "Invxrt's Mod(Unobtainable Items)"
+}
